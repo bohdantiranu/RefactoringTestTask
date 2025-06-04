@@ -10,7 +10,7 @@ namespace TestTaskRefactoring
         private readonly ConcurrentDictionary<string, Task<Order>> _cache;
 
         [WebMethod]
-        public async Task<Order> LoadOrderInfo(string orderCode)
+        public async Task<Order> LoadOrderInfoAsync(string orderCode)
         {
             if (string.IsNullOrEmpty(orderCode))
             {
