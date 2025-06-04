@@ -1,0 +1,114 @@
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.docstates.suo
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.VC.VC.db.*
+*.VC.VC.opendb.*
+*.vspscc
+*.vssscc
+*.tlog
+*.vsidx
+*.vspx
+*.vsscc
+*.vssscc
+*.testsettings
+*.runsettings
+*.pfx
+*.publishsettings
+[Oo]bj/
+[Bb]in/
+*.nupkg
+*.vs/
+*.idea/
+*.iws
+*.ipr
+*.iml
+*.log
+*.swp
+*.bak
+*.tmp
+*.lock
+*.tar
+*.zip
+*.7z
+*.gz
+*.rar
+*.exe
+*.dll
+*.pdb
+*.vs/
+*.idea/
+*.user
+*.suo
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.VC.VC.db.*
+*.VC.VC.opendb.*
+*.vspscc
+*.vssscc
+*.tlog
+*.vsidx
+*.vspx
+*.vsscc
+*.vssscc
+*.testsettings
+*.runsettings
+*.pfx
+*.publishsettings
+*.nupkg
+*.vs/
+*.idea/
+*.iws
+*.ipr
+*.iml
+*.log
+*.swp
+*.bak
+*.tmp
+*.lock
+*.tar
+*.zip
+*.7z
+*.gz
+*.rar
+*.exe
+*.dll
+*.pdb
+# Node
+node_modules/
+# Package files specific to VS
+*.vspscc
+*.vssscc
+*.tdlog
+*.nuspec
+# NuGet Packages
+packages/
+*.nupkg
+# Temporary build results
+[Oo]bj/
+[Bb]in/
+# User-specific files
+*.user
+*.suo
+*.cache
+# Test Results
+TestResults/
+# Code coverage results
+*.coverage
+*.coveragexml
+# Visual Studio cache files
+*.vs/
+# Resharper generated files
+_ReSharper*/
+# Rider generated files
+.idea/
+# Eclipse files
+.metadata/
